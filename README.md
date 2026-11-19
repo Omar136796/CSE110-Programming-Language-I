@@ -1,6 +1,6 @@
-# CSE110 (Spring 2023) – Programming Language I (BRAC University)
+# CSE110 – Programming Language I (BRAC University)
 
-Lab assignments from CSE110, BRAC University's introductory programming
+Lab assignments from CSE110 (Spring 2023), BRAC University's introductory programming
 course in Python. All work was done in Google Colab, and each notebook
 includes the code along with its output.
 
